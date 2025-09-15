@@ -1,7 +1,7 @@
 ## 👋Olá, sou a Grazy Dantas✨
 
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste (Fatec ZL), com foco em desenvolvimento de software e tecnologias web. 
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Grazy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Grazy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
