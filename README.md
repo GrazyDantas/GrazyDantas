@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia d
 <div>
   <a href="https://github.com/GrazyDantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrazyDantas&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs,/?username-GrazyDantas&layout-compact&langs_count-16&theme-dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazyDantas&hide_progress=true"/>
 </div>
 
 
