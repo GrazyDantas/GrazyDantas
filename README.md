@@ -11,10 +11,17 @@ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia d
   <img align="center" alt="Grazy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/grazidantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<!--
 <div>
   <a href="https://github.com/GrazyDantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrazyDantas&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazyDantas&hide_progress=true&theme=synthwave"/>
 </div>
-
+-->
 
